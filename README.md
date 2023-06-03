@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ZorionMax&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZorionMax&hide_border=true&theme=github_dark&layout=compact#gh-dark-mode-only)](https://github.com/ZorionMax#gh-dark-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZorionMax&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZorionMax&theme=dracula&show_icons=true)
