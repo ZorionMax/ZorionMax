@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZorionMax&hide_border=true&theme=github_dark&layout=compact#gh-dark-mode-only)](https://github.com/ZorionMax#gh-dark-mode-only)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZorionMax&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZorionMax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZorionMax&layout=compact)](https://github.com/ZorionMax#gh-dark-mode-only)
